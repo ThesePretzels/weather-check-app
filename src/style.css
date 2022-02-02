@@ -1,0 +1,139 @@
+h1 {
+  font-family: "Quicksand";
+  color: #f7aa00;
+}
+
+.favorites {
+  text-align: center;
+}
+
+.new-york {
+  display: inline-block;
+  text-align: center;
+  padding: 0 5px 2px 5px;
+}
+
+.tokyo {
+  display: inline-block;
+  text-align: center;
+  padding: 0 5px 2px 5px;
+}
+
+.istanbul {
+  display: inline-block;
+  text-align: center;
+  padding: 0 5px 2px 5px;
+}
+
+.san-juan {
+  display: inline-block;
+  text-align: center;
+  padding: 0 5px 2px 5px;
+}
+
+.search-form {
+  margin: 0 auto auto;
+}
+
+h2 {
+  margin: 0 auto;
+  color: #235784;
+}
+
+h3 {
+  margin: 0 auto;
+}
+
+.card {
+  width: 650px;
+  height: 450px;
+  background-color: #bcdbdf;
+}
+
+.cloud-sun-icon {
+  font-size: 32px;
+  color: #235784;
+}
+
+.temperature {
+  font-size: 48px;
+  font-weight: bold;
+  color: #235784;
+}
+
+.units {
+  display: block;
+  margin: auto auto 0 50px;
+}
+
+.bottom-right-corner {
+  display: block;
+  margin: 0 auto 25px;
+}
+
+ul {
+  text-align: right;
+  list-style-type: none;
+}
+
+.five-day-forecast {
+  margin: 10px 0 auto;
+  text-align: center;
+  color: #235784;
+  font-weight: 550;
+}
+
+.day-one-forecast-list {
+  display: inline-block;
+  margin: auto 5px 0 5px;
+  background-color: white;
+  border: solid;
+  border-color: #f7aa00;
+  border-width: 5px;
+  border-radius: 50%;
+  padding: 25px 10px 25px 10px;
+}
+
+.day-two-forecast-list {
+  display: inline-block;
+  margin: auto 5px 0 5px;
+  background-color: white;
+  border: solid;
+  border-color: #f7aa00;
+  border-width: 5px;
+  border-radius: 50%;
+  padding: 25px 10px 25px 10px;
+}
+
+.day-three-forecast-list {
+  display: inline-block;
+  margin: auto 5px 0 5px;
+  background-color: white;
+  border: solid;
+  border-color: #f7aa00;
+  border-width: 5px;
+  border-radius: 50%;
+  padding: 25px 10px 25px 10px;
+}
+
+.day-four-forecast-list {
+  display: inline-block;
+  margin: auto 5px 0 5px;
+  background-color: white;
+  border: solid;
+  border-color: #f7aa00;
+  border-width: 5px;
+  border-radius: 50%;
+  padding: 25px 10px 25px 10px;
+}
+
+.day-five-forecast-list {
+  display: inline-block;
+  margin: auto 5px 0 5px;
+  background-color: white;
+  border: solid;
+  border-color: #f7aa00;
+  border-width: 5px;
+  border-radius: 50%;
+  padding: 25px 10px 25px 10px;
+}
