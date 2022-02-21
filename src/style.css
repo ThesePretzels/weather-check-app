@@ -62,18 +62,29 @@ h3 {
 }
 
 .units {
-  display: block;
-  margin: auto auto 0 50px;
+  display: inline;
+  margin: 0;
+  position: relative;
 }
 
-.bottom-right-corner {
-  display: block;
-  margin: 0 auto 25px;
+.col-6 {
+  display: inline;
+}
+
+.bottom-left-corner {
+  display: inline;
 }
 
 ul {
+  margin: 0;
+  padding: 0;
   text-align: right;
   list-style-type: none;
+}
+
+li {
+  margin: 0;
+  padding: 0;
 }
 
 .five-day-forecast {
